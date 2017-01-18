@@ -1,1 +1,1 @@
-# website
+# website voor muziekvereniging Vlijt en Eendracht.
