@@ -23,6 +23,10 @@ nav li{
 nav a{
 	display: block;
 	padding: 8px;
+	text-decoration: none;
+	color: white;
+	text-transform: uppercase;
+	font-weight: bold;
 	
 }
 nav a:hover{
