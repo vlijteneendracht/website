@@ -1,3 +1,50 @@
 body {
-
+background-color: lightblue;
 }
+.container{
+	width: 80%;
+	margin: auto;
+	background-color: lightblue;
+}
+
+nav ul{
+	background-color: #dddddd;
+	float: left;
+	padding-left: 0px;
+	width: 100%
+}
+nav li{
+	float: left;
+	margin: 5px;
+	list-style-type: none;
+	background-color: lightgray;
+}
+
+nav a{
+	display: block;
+	padding: 8px;
+	
+}
+nav a:hover{
+	background-color: black;
+}
+
+.article{
+	clear: both;
+	float: left;
+	background-color: gray;
+	width: 60%;
+	padding: 16px;
+}
+.social{
+	float: left;
+	width: 32%;
+	background-color: blue;
+	padding: 10px;
+	
+}
+footer{
+	clear: both;
+}
+
+
